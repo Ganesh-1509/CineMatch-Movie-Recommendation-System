@@ -7,6 +7,10 @@
 # CineMatch
 
 A movie recommender I built with Python and Streamlit. You type in a movie you like, pick a mode, and it gives you 10 similar movies with a short note on why each one was picked.
+Try CineMatch here: 
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cinematch-movie-recommendation-system-15.streamlit.app)
+
 
 
 ## What it does
