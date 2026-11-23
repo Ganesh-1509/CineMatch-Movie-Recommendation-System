@@ -8,7 +8,6 @@
 
 A movie recommender I built with Python and Streamlit. You type in a movie you like, pick a mode, and it gives you 10 similar movies with a short note on why each one was picked.
 
-![CineMatch screenshot](screenshot.png)
 
 ## What it does
 
